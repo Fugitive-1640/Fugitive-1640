@@ -1,20 +1,18 @@
-<!-- Hero Banner -->
-<h1 align="center">👋 Hey, I'm Shylesh S</h1>
-
+<!-- Capsule Render Header — matches your current profile banner style -->
 <p align="center">
-  <b>Aspiring ML Engineer · Data Scientist · Software Engineer</b> &nbsp;|&nbsp; India 🇮🇳
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shylesh%20S&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20SWE%20Intern%20Ready&descAlignY=60&descSize=20&descColor=ffffff" />
+</p>
+
+<!-- Typing SVG — matches your existing one -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%F0%9F%A7%A0;Turning+Raw+Data+into+Real+Insights+%E2%9C%A8;Always+Exploring+New+Algorithms+%F0%9F%94%AC" />
 </p>
 
 <p align="center">
-  🎯 Final-year student actively seeking <b>internships & full-time roles</b> in ML, Data Science, and Software Engineering.<br/>
-  🚀 Building innovative AI solutions — including <b>Project Nova: Virtual Emotional AI</b> — that bridge technology and human emotion.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shylesh1640&label=Profile%20Views&color=0D9FFF&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ECC71?style=flat-square" alt="open to work" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20AI%20%7C%20SWE-0D9FFF?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20FTE-FF6B6B?style=flat-square" alt="open to internships" />
+  <img src="https://komarev.com/ghpvc/?username=Shylesh1640&label=Profile%20Views&color=0D9FFF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Shylesh1640?label=Followers&style=flat-square&color=0D9FFF&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ECC71?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20FTE-FF6B6B?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
@@ -23,23 +21,23 @@
 
 ```python
 class Shylesh:
-    name        = "Shylesh S"
-    role        = "ML Engineer · Data Scientist · Software Engineer (Intern Ready)"
-    location    = "India 🇮🇳"
+    name     = "Shylesh S"
+    role     = "ML Engineer · Data Scientist · Software Engineer (Intern Ready)"
+    location = "India 🇮🇳"
 
     strengths = [
         "End-to-end ML pipelines: EDA → Feature Eng → Modelling → Deployment",
         "LLM & Generative AI applications with LangChain & Prompt Engineering",
-        "Production APIs with FastAPI & Flask — clean, scalable, documented",
-        "Computer Vision & NLP with real project experience",
-        "Cloud deployments on AWS / GCP",
+        "Production REST APIs with FastAPI & Flask — clean, scalable, documented",
+        "Computer Vision & NLP with real-project experience",
+        "Cloud deployments on AWS / GCP with Docker",
     ]
 
     target_roles = [
         "ML Engineer Intern",
         "Data Science Intern",
         "Software Engineer Intern",
-        "AI/ML Research Intern",
+        "AI / ML Research Intern",
     ]
 
     available_from = "Immediately"
@@ -104,22 +102,24 @@ print(me.say_hi())
 
 ## 🔥 Featured Projects
 
-> Hands-on projects demonstrating real-world ML, AI, and engineering skills.
+> Pinned repos + top projects — real star counts, real impact.
 
-| 🚀 Project | 📝 Description | 🛠️ Stack | 💡 Skills Demonstrated |
-|-----------|----------------|----------|----------------------|
-| [⚡ FastAPI-app](https://github.com/Shylesh1640/FastAPI-app) | Production-ready REST API backend — ⭐ 18+ stars | `Python` `FastAPI` | API Design, Backend Eng |
-| [🌐 Django-Project](https://github.com/Shylesh1640/Django-Project) | Full-stack web application | `Python` `Django` | Full-Stack, MVC Pattern |
-| [💊 Phrama-Ai](https://github.com/Shylesh1640/Phrama-Ai) | AI-powered pharmaceutical assistant | `Python` `AI/ML` | LLM Integration, Domain AI |
-| [🌊 Aquascan](https://github.com/Shylesh1640/Aquascan) | Water quality analysis & scanning system | `Python` `Computer Vision` | CV, Real-World Problem Solving |
-| [🎬 netflix-movie-pandas](https://github.com/Shylesh1640/netflix-movie-pandas) | Netflix EDA & insights — ⭐ 5+ stars | `Python` `Pandas` | EDA, Data Storytelling |
-| [🏠 House-Prices-Regression](https://github.com/Shylesh1640/House-Prices---Advanced-Regression-Techniques) | Kaggle House Prices — advanced regression | `Python` `Scikit-Learn` | Feature Eng, Model Tuning |
+| 🚀 Project | 📝 Description | 🛠️ Stack | ⭐ |
+|-----------|----------------|----------|----|
+| [⚡ FastAPI-app](https://github.com/Shylesh1640/FastAPI-app) | Production-ready REST API backend | `Python` `FastAPI` | 8 |
+| [🎬 netflix-movie-pandas](https://github.com/Shylesh1640/netflix-movie-pandas) | Netflix dataset EDA & insights | `Python` `Pandas` | 4 |
+| [🏠 House-Prices-Regression](https://github.com/Shylesh1640/House-Prices---Advanced-Regression-Techniques) | Kaggle House Prices — advanced regression | `Python` `Scikit-Learn` | 3 |
+| [📊 Google-Play-Store-Dataset](https://github.com/Shylesh1640/-Google-Play-Store-Dataset) | Data Cleaning & EDA on Play Store data | `Python` `Pandas` | 2 |
+| [💊 Phrama-Ai](https://github.com/Shylesh1640/Phrama-Ai) | AI-powered pharmaceutical assistant | `Python` `AI/ML` | — |
+| [🌊 Aquascan](https://github.com/Shylesh1640/Aquascan) | Water quality analysis & computer vision | `Python` `OpenCV` | — |
+| [🖥️ Study Tracker](https://github.com/Shylesh1640/Study_tracker_using_react) | Study tracker web app built with React | `React` `JavaScript` | — |
+| [🌐 Django-Project](https://github.com/Shylesh1640/Django-Project) | Full-stack web application | `Python` `Django` | — |
 
 ---
 
 ## 🚧 Work In Progress
 
-> Projects currently being built — stay tuned!
+> Currently building — stay tuned!
 
 | 🔨 Project | 📝 Description | 🛠️ Stack |
 |-----------|----------------|----------|
@@ -127,7 +127,7 @@ print(me.say_hi())
 | ☁️ **MLOps Pipeline** | Automated ML pipeline with CI/CD, model registry & cloud deployment | `Python` `AWS` `Docker` `MLflow` |
 | 🦜 **RAG Application** | Retrieval-Augmented Generation app using LlamaIndex & vector DBs | `Python` `LlamaIndex` `LangChain` |
 
-> 💬 *Interested in collaborating on any of these? Reach out!*
+> 💬 *Interested in collaborating on any of these? Let's connect!*
 
 ---
 
@@ -135,71 +135,89 @@ print(me.say_hi())
 
 | 🗂️ Repository | 💡 My Involvement |
 |---------------|------------------|
-| [Kosaksi-Pasapugazh-and-experiments](https://github.com/Shylesh1640/Kosaksi-Pasapugazh-and-experiments) | Forked & ran NLP experiments in Jupyter Notebook |
+| [Kosaksi-Pasapugazh-and-experiments](https://github.com/Shylesh1640/Kosaksi-Pasapugazh-and-experiments) | Forked & ran NLP/language experiments in Jupyter Notebook |
 | [Python-Learnings](https://github.com/Shylesh1640/Python-Learnings) | Practice, utilities & experiments sharpening Python & ML skills |
 | [Computer_Vision](https://github.com/Shylesh1640/Computer_Vision) | Hands-on CV experiments and model implementations |
+| [improve-skill-in-git-hub](https://github.com/Shylesh1640/improve-skill-in-git-hub) | Git workflow practice & open-source contribution exploration |
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🤖 Built **end-to-end ML pipelines** — raw data → deployed predictions  
-- 🌐 Developed **Phrama-Ai**, an AI-powered healthcare assistant  
-- ⚡ Built a **production-ready FastAPI backend** with 18+ stars, referenced by other developers  
-- 🦜 Hands-on experience with **LangChain, LlamaIndex & Prompt Engineering** for LLM apps  
-- ☁️ Deployed applications on **AWS & GCP** with Docker containerization  
-- 📊 Performed EDA on **Netflix** & **Google Play Store** datasets with actionable insights  
-- 🏠 Applied **advanced regression techniques** on the classic Kaggle House Prices dataset  
-- 🔁 Full ML lifecycle: **EDA → Feature Engineering → Modelling → Evaluation → Deployment**  
+- ⚡ Built a **production-ready FastAPI backend** (⭐ 8) referenced by other developers
+- 🎬 EDA on **Netflix & Google Play Store** datasets with actionable insights
+- 🏠 Applied **advanced regression techniques** on Kaggle House Prices dataset
+- 🌊 Built **Aquascan** — real-world computer vision for water quality analysis
+- 💊 Developed **Phrama-Ai** — AI-powered healthcare domain assistant
+- 🖥️ Built a **React study tracker** — demonstrating full-stack range
+- 🔁 Full ML lifecycle: **EDA → Feature Eng → Modelling → Evaluation → Deployment**
 - 🏅 GitHub achievements: **Pair Extraordinaire · Pull Shark · Quickdraw · YOLO**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shylesh1640&bg_color=0D1117&color=0D9FFF&line=0D9FFF&point=F6B6B6&area=true&hide_border=true" alt="contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shylesh1640&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shylesh1640&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shylesh1640&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=0D9FFF&fire=FF6B6B&currStreakLabel=0D9FFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shylesh1640&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shylesh1640&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shylesh1640&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 💼 Actively Seeking Opportunities
 
-> I'm currently looking for **internships and full-time roles** starting immediately.
+> Available **immediately** for internships and full-time roles.
 
 | 🎯 Role | ✅ Ready |
 |--------|---------|
 | ML Engineer Intern | ✔️ |
 | Data Science Intern | ✔️ |
 | Software Engineer Intern | ✔️ |
-| AI/ML Research Intern | ✔️ |
+| AI / ML Research Intern | ✔️ |
 
-📩 **Best way to reach me:** [shylesh1640@gmail.com](mailto:shylesh1640@gmail.com) or [LinkedIn](https://linkedin.com/in/shylesh1640)
+📩 **Best way to reach me:** [shylesh1640@gmail.com](mailto:shylesh1640@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shylesh1640)
 
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shylesh1640" target="_blank">
+  <a href="https://linkedin.com/in/shylesh1640">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/shylesh0440" target="_blank">
+  &nbsp;
+  <a href="https://x.com/shylesh0440">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:shylesh1640@gmail.com" target="_blank">
+  &nbsp;
+  <a href="mailto:shylesh1640@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Shylesh1640" target="_blank">
+  &nbsp;
+  <a href="https://github.com/Shylesh1640">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<!-- Capsule Render Footer — matches your current profile footer style -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
+</p>
 
 <p align="center">
   <i>"Data is not just numbers — it's a story waiting to be told."</i> 📖
